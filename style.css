@@ -1,0 +1,10 @@
+/* General external styles */
+body {
+  line-height: 1.6;
+}
+a {
+  transition: color 0.3s;
+}
+a:hover {
+  color: darkred;
+}
